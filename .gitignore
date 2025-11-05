@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 _posts/2025-11-03-welcome-to-jekyll.markdown
+/_posts/.old
