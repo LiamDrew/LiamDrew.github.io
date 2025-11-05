@@ -21,11 +21,11 @@
 title: Liam Drew
 email: william.ward.drew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  1% better every day.
+  I am Darwin.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+# url: "https://liamdrew.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: LiamDrew
+linkedin_username: liam-drew
 
 # Build settings
 theme: minima
