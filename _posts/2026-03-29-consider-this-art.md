@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Consider this art"
-date:   2026-03-29 10:42:00 -0500
+date:   2026-03-28 10:42:00 -0400
 categories: jekyll update
 ---
 
